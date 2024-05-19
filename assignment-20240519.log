@@ -1,0 +1,83 @@
+2024-05-19 16:06:20.601 [TestNG-tests-1] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+2024-05-19 16:06:20.616 [TestNG-tests-1] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+2024-05-19 16:06:20.617 [TestNG-tests-1] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+2024-05-19 16:06:20.623 [TestNG-tests-1] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@42bc6bc0
+2024-05-19 16:06:20.653 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+2024-05-19 16:06:20.653 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+2024-05-19 16:06:20.656 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2024-05-19 16:06:20.657 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2024-05-19 16:06:20.658 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+2024-05-19 16:06:20.659 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2024-05-19 16:06:20.660 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+2024-05-19 16:06:20.661 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+2024-05-19 16:06:20.661 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2024-05-19 16:06:20.661 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+2024-05-19 16:06:20.661 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2024-05-19 16:06:20.662 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\chand\AppData\Local\Temp (java.io.tmpdir)
+2024-05-19 16:06:20.662 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-05-19 16:06:20.663 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+2024-05-19 16:06:20.664 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3790077952 bytes
+2024-05-19 16:06:20.664 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-05-19 16:06:20.665 [TestNG-tests-1] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+2024-05-19 16:06:20.666 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2024-05-19 16:06:20.676 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+2024-05-19 16:06:20.704 [TestNG-tests-1] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-05-19 16:06:20.704 [TestNG-tests-1] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-05-19 16:06:20.727 [TestNG-tests-1] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+2024-05-19 16:06:20.727 [TestNG-tests-1] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-05-19 16:06:20.771 [TestNG-tests-1] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+2024-05-19 16:06:20.785 [TestNG-tests-1] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+2024-05-19 16:06:20.786 [TestNG-tests-1] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-05-19 16:06:20.839 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+2024-05-19 16:06:20.839 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-05-19 16:06:20.840 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-05-19 16:06:20.841 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-05-19 16:06:20.841 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-05-19 16:06:20.841 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-05-19 16:06:20.858 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+2024-05-19 16:06:20.859 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-05-19 16:06:20.859 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-05-19 16:06:21.702 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 27408 (auto-detected)
+2024-05-19 16:06:21.705 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+2024-05-19 16:06:21.705 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+2024-05-19 16:06:21.878 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-05-19 16:06:21.879 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-05-19 16:06:22.073 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 9c:b6:d0:ff:fe:22:8c:b7 (auto-detected)
+2024-05-19 16:06:22.144 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+2024-05-19 16:06:22.145 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+2024-05-19 16:06:22.145 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@538134cb
+2024-05-19 16:06:22.178 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-05-19 16:06:22.178 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+2024-05-19 16:06:22.178 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+2024-05-19 16:06:22.179 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+2024-05-19 16:06:22.919 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-05-19 16:06:23.108 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xfb5e1a2260e1c37f
+2024-05-19 16:06:27.429 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:06:27.618 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying address typed successfully 
+2024-05-19 16:06:35.427 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying address located successfully 
+2024-05-19 16:06:40.322 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:06:40.402 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - address search bar found successfully 
+2024-05-19 16:06:45.199 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:06:45.406 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - community found successfully 
+2024-05-19 16:06:49.008 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:06:49.089 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - school query info found successfully 
+2024-05-19 16:06:54.451 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:06:54.819 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - medical found successfully 
+2024-05-19 16:06:59.846 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:07:00.064 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - hawker centres found successfully 
+2024-05-19 16:07:05.063 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:07:05.260 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - threeDMap found successfully 
+2024-05-19 16:07:11.117 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:07:11.286 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - draw tools found successfully 
+2024-05-19 16:07:16.952 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:07:17.191 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - share view found successfully 
+2024-05-19 16:07:22.857 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:07:23.050 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - get my location found successfully 
+2024-05-19 16:07:28.619 [TestNG-tests-1] INFO  com.pages.LocationSearchPage -  verifying page launched
+2024-05-19 16:07:28.828 [TestNG-tests-1] INFO  com.pages.LocationSearchPage - zoom button found successfully 
